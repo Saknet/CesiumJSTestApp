@@ -1,0 +1,23 @@
+{
+  "name": "cesiumjstestapp",
+  "version": "1.0.0",
+  "description": "Experiementing with CesiumJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saknet/CesiumJSTestApp.git"
+  },
+  "keywords": [
+    "cesium.js",
+    "experiments"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saknet/CesiumJSTestApp/issues"
+  },
+  "homepage": "https://github.com/Saknet/CesiumJSTestApp#readme"
+}
